@@ -44,3 +44,4 @@ public class Switch {
     }
     
 }
+// Código funcionando sin errores, clas de switch ¡Aprobada!
